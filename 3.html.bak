@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ukr">
+<head>
+    <meta charset="UTF-8">
+    <title>Повна версія картки викладача</title>
+</head>
+<body>
+<article data-background-color="lightblue">
+    <h2>Повна версія картки викладача</h2>
+    <section>
+        <h3>Особисті дані</h3>
+        <div>
+            <p id="full_name">ПІБ: Петренко Петро Петрович</p>
+			<p id="birthdate">Дата нароження: 24.08.1991</p>
+			<p id="age">Вік: 31</p>
+            <p id="gender">Стать: Чоловіча</p>
+            <p id="email">Email: petrenko@ukr.net</p>
+            <p id="phone">Телефон: +380(66)-666-66-66</p>
+            <p id="country">Країна: Україна</p>
+            <p id="city">Місто: Жашків</p>
+            <label for="comment">Коментар:</label>
+            <p id="comment">Досвідчений викладач з високою кваліфікацією, викладає програмування та прикладну математику</p>
+        </div>
+    </section>
+    <section>
+        <h3>Місце знаходження</h3>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3097.410757093059!2d30.10416814023872!3d49.246042164121114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40d2f8af4ae7a4a5%3A0x6554fbd711003bf4!2z0JrQuNGX0LItUw!5e0!3m2!1suk!2sua!4v1684412128614!5m2!1suk!2sua" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </section>
+</article>
+</body>
+</html>
+
+
