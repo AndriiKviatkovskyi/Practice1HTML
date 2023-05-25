@@ -49,6 +49,7 @@
 	</div>
 	<div>
 		<button type="submit">Додати викладача</button>
+		<button type="reset">Очистити поля</button>
 	</div>
   </form>
 </body>
