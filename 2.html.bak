@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta ame="viewport" content="width=device-width, initial-scale=1.0" charset="UTF-8">
+  <meta ame="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
   <title>Компактна версія карти викладача</title>
 </head>
 <body>
