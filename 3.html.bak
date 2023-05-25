@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="ukr">
 <head>
-    <meta charset="UTF-8">
+    <meta ame="viewport" content="width=device-width, initial-scale=1.0" charset="UTF-8">
     <title>Повна версія картки викладача</title>
 </head>
 <body>
-<article data-background-color="lightblue">
+<article data-background-color="blue">
     <h2>Повна версія картки викладача</h2>
     <section>
         <h3>Особисті дані</h3>

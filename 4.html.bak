@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="ukr">
 <head>
+  <meta ame="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="UTF-8">
   <title>Таблиця статистики</title>
 </head>
@@ -16,22 +17,28 @@
   </thead>
   <tbody>
   <tr>
-    <td>Степан</td>
-    <td>25</td>
-    <td>Чоловіча</td>
+    <td>Єлизавета</td>
+    <td>18</td>
+    <td>Жінка</td>
     <td>Україна</td>
   </tr>
   <tr>
-    <td>Тіффані</td>
-    <td>30</td>
-    <td>Жіноча</td>
-    <td>США</td>
+    <td>Мухаммед</td>
+    <td>33</td>
+    <td>Чоловік</td>
+    <td>Ірак</td>
   </tr>
   <tr>
-    <td>Джон</td>
-    <td>42</td>
-    <td>Чоловіча</td>
-    <td>Канада</td>
+    <td>Емілі</td>
+    <td>31</td>
+    <td>Жінка</td>
+    <td>США</td>
+  </tr>
+    <tr>
+    <td>Жан</td>
+    <td>74</td>
+    <td>Чоловік</td>
+    <td>Франція</td>
   </tr>
   </tbody>
 </table>
